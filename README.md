@@ -1,2 +1,5 @@
 # hello-world
-sample repository
+
+Hi nakamas!
+
+My name is Zchler, I want to learn programming.
